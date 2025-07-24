@@ -28,3 +28,5 @@ pipeline {
            echo "deployed version$(params.VERSION)"
        }
   }
+            }
+            }
